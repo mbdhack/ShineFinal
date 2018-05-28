@@ -1,0 +1,6 @@
+framework module Pods_ShineFInal {
+  umbrella header "Pods-ShineFInal-umbrella.h"
+
+  export *
+  module * { export * }
+}
