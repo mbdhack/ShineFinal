@@ -9,5 +9,5 @@
 import Foundation
 
 struct WeatherTypeVideo {
-    public static let videoData = ["Clouds","Clear","Rain","Thunderstorm","Mist"]
+    public static let videoData = ["Clouds","Clear","Rain","Thunderstorm","Mist","Haze"]
 }

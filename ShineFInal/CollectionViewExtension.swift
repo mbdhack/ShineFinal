@@ -34,6 +34,7 @@ extension  CollectionViewController {
         currentTempLabel.text = "\(currentWeather.currentTemp)"
         currentWeatherLabel.text  = currentWeather.weatherType
         cityLAbel.text = "\(currentWeather.cityName)"
+        print("==>\(currentWeather.weatherType)")
     }
     func playVideo(){
         WeatherTypeVideo.videoData.forEach { (video) in
